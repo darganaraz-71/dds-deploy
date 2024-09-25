@@ -25,3 +25,4 @@ workflows:
       - maven/test:
           command: '-X compile test'
           executor: java17
+
